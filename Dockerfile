@@ -6,4 +6,4 @@ COPY ./src /usr/local/apache2/src
 COPY ./tests /usr/local/apache2/tests
 COPY ./websocket /usr/local/apache2/websocket
 COPY ./app /usr/local/apache2/app
-COPY ./.srttings /usr/local/apache2/.srttings
+
